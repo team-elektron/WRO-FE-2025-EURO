@@ -15,9 +15,9 @@
 This is the public repository for our team and the work we have done on our robot.
 
 <p float="left">
-  <img src="v-photos/top.jpg" width="200"/>
+  <img src="v-photos/side.jpg" width="200"/>
   &nbsp;
-  <img src="v-photos/front.jpg" width="200"/>
+  <img src="v-photos/back.jpg" width="200"/>
 </p>
 
 ## Design elements
