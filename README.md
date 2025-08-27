@@ -15,9 +15,9 @@
 This is the public repository for our team and the work we have done on our robot.
 
 <p float="left">
-  <img src="v-photos/side.jpg" width="200"/>
+  <img src="v-photos/side.jpg" width="350"/>
   &nbsp;
-  <img src="v-photos/back.jpg" width="200"/>
+  <img src="v-photos/back.jpg" width="350"/>
 </p>
 
 ## Design elements
@@ -39,7 +39,7 @@ For the driving base we have chosen a pre-made RC car driving base due to time c
   &nbsp;
   <img src="other/mg996r.jpg" width="200"/>
   &nbsp;
-  <img src="other/steer.png" width="200"/>
+  <img src="other/steer.png" width="300"/>
 </p>
 
 ### Cameras & Sensors
