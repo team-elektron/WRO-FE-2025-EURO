@@ -1,6 +1,7 @@
 Control software
 ====
 
-This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
+Since our robot is divided into 2 sections, the Raspberry Pi and the Arduino Nano, we have separated their source files into 2 directories. 
 
-All artifacts required to resolve dependencies and build the project must be included in this directory as well.
+"pi-side" - Raspberry Pi source side
+"nano-side" - Arduino Nano side
