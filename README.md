@@ -39,7 +39,7 @@ For the driving base we have chosen a pre-made RC car driving base due to time c
   &nbsp;
   <img src="other/mg996r.jpg" width="200"/>
   &nbsp;
-  <img src="other/steer.png" width="300"/>
+  <img src="other/steer.png" width="250"/>
 </p>
 
 ### Cameras & Sensors
@@ -90,5 +90,5 @@ The shield itself is a major improvement to the earlier revision as it no longer
 
 ### Code
 
-We have written most of our code in C++ using the WiringPi library for interfacing the Pi GPIO, Python (mainly OpenCV for obstacle detection) and Arduino flavored c++. 
+We have written most of our code in Python (mainly OpenCV for obstacle detection) and Arduino flavored c++. 
 You can find the code in the src folder and the instructions on how to use it.
