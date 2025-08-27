@@ -28,6 +28,7 @@ This is the public repository for our team and the work we have done on our robo
 - Movement: Brushed motor
 - Steering: 180 degree Servo based
 - Sensors: 3x Ultrasonic sensors, Camera, IMU Sensor
+- Displays: 2.4 Inch LCD Touch Display
 
 ### Driving elements
 
@@ -37,6 +38,8 @@ For the driving base we have chosen a pre-made RC car driving base due to time c
   <img src="other/l298n.jpg" width="200"/>
   &nbsp;
   <img src="other/mg996r.jpg" width="200"/>
+  &nbsp;
+  <img src="other/steer.png" width="200"/>
 </p>
 
 ### Cameras & Sensors
